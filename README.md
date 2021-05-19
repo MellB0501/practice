@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+1. Create a new React app
+2. Fetch characters from rickAndMorty API:
+    a) https://rickandmortyapi.com/api/chara...
+3. Display all characters from fetch call:
+    a) Picture
+    b) Name
+    c) Species
+    d) Status
+4. Make a favorite component
+5. Whenever a character is clicked, they become the favorite.
+6. The favorite component only appears if a favorite has been selected.
+7. If the favorite component is clicked, the favorite goes away.
+---------
+Bonus:
+---------
+What if I wanted to have multiple favorites?
+8. Can only favorite each character once.
+9. If I click on a character in favorites, they are removed from favorites. If I click on them in the cards list they get added to favorites (if they aren’t already there)# practice
